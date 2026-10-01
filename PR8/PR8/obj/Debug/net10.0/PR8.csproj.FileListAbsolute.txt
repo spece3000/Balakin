@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PR8\PR8\bin\Debug\net10.0\PR8.exe
+C:\Users\user\source\repos\PR8\PR8\bin\Debug\net10.0\PR8.deps.json
+C:\Users\user\source\repos\PR8\PR8\bin\Debug\net10.0\PR8.runtimeconfig.json
+C:\Users\user\source\repos\PR8\PR8\bin\Debug\net10.0\PR8.dll
+C:\Users\user\source\repos\PR8\PR8\bin\Debug\net10.0\PR8.pdb
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.AssemblyInfo.cs
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.dll
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\refint\PR8.dll
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.pdb
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.genruntimeconfig.cache
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\ref\PR8.dll
+C:\Users\user\source\repos\PR8\PR8\obj\Debug\net10.0\PR8.csproj.Up2Date
