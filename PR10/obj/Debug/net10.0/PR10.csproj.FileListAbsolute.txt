@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PR10\PR10\bin\Debug\net10.0\PR10.exe
+C:\Users\user\source\repos\PR10\PR10\bin\Debug\net10.0\PR10.deps.json
+C:\Users\user\source\repos\PR10\PR10\bin\Debug\net10.0\PR10.runtimeconfig.json
+C:\Users\user\source\repos\PR10\PR10\bin\Debug\net10.0\PR10.dll
+C:\Users\user\source\repos\PR10\PR10\bin\Debug\net10.0\PR10.pdb
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.AssemblyInfo.cs
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.dll
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\refint\PR10.dll
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.pdb
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.genruntimeconfig.cache
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\ref\PR10.dll
+C:\Users\user\source\repos\PR10\PR10\obj\Debug\net10.0\PR10.csproj.Up2Date
